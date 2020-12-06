@@ -1,2 +1,3 @@
+include ':zqutil'
 include ':app'
 rootProject.name = "Commen"
